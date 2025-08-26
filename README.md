@@ -111,3 +111,15 @@ A strong brand identity
 Better collaboration between designers and developers
 
 Faster and more accurate implementation of mockups
+
+
+## 3. Project Roles and Responsibilities
+# Role	                       Responsibilities
+Project Manager	         Oversees timeline, coordinates team, manages deliverables.
+Frontend Developers	      Implement UI components, ensure responsive design, handle client-side logic.
+Backend Developers	      Build APIs, manage database, and implement business logic.
+Designers	               Create mockups, maintain design system, ensure UX quality.
+QA/Testers              	Write test cases, perform testing, and report bugs.
+DevOps Engineers	         Manage deployment, CI/CD pipeline, and server infrastructure.
+Product Owner           	Define requirements, prioritize features, and represent stakeholders.
+Scrum Master	            Facilitate agile processes, remove blockers, and organize team meetings.
