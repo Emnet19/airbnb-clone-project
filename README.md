@@ -34,3 +34,46 @@ The main goal of this project is to strengthen skills in:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/airbnb-clone-project.git
+   
+
+## 1. UI/UX Design Planning
+
+# 🎯 Design Goals
+
+- Create an intuitive booking flow
+
+- Maintain visual consistency
+
+- Ensure fast loading times
+
+- Prioritize mobile responsiveness
+
+## ✨ Key Features
+
+- Property search and filtering
+
+- Detailed property viewing
+
+- Secure checkout process
+
+- User authentication
+
+## 📄 Primary Pages
+
+Page	                                     Description
+
+- Property Listing View	         Grid display of available properties with filters for price, location, etc.
+- Listing Detailed View	         Full property details including images, amenities, and booking form.
+- Simple Checkout View          	Streamlined checkout for payments and booking confirmation.
+
+##💡 Importance of User-Friendly Design
+
+- A well-designed booking system:
+
+- Reduces friction in the user journey
+
+- Increases conversion rates
+
+- Improves customer satisfaction
+
+- Ensures clear navigation and responsive layouts
