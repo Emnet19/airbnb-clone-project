@@ -77,3 +77,37 @@ Page	                                     Description
 - Improves customer satisfaction
 
 - Ensures clear navigation and responsive layouts
+
+## 2. More UI/UX Design Planning
+🎨 Figma Design Specifications
+Color Styles
+
+Primary: #FF5A5F
+
+Secondary: #008489
+
+Background: #FFFFFF
+
+Text: #222222
+
+Secondary Text: #717171
+
+Typography
+
+Primary Font: Circular, Medium (500), 16px
+
+Headings: Circular, Bold (700), 24px–32px
+
+Secondary Text: Circular, Book (400), 14px
+
+💡 Why Identify Design Properties?
+
+Identifying color schemes and typography ensures:
+
+Consistency across all pages and components
+
+A strong brand identity
+
+Better collaboration between designers and developers
+
+Faster and more accurate implementation of mockups
