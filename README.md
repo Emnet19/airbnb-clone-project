@@ -123,3 +123,38 @@ QA/Testers              	Write test cases, perform testing, and report bugs.
 DevOps Engineers	         Manage deployment, CI/CD pipeline, and server infrastructure.
 Product Owner           	Define requirements, prioritize features, and represent stakeholders.
 Scrum Master	            Facilitate agile processes, remove blockers, and organize team meetings.
+
+
+## 4. UI Component Patterns
+# 🔹 Planned Components
+Navbar
+
+Logo
+
+Search bar
+
+User navigation
+
+Responsive menu
+
+Property Card
+
+Property image
+
+Basic details (price, location, rating)
+
+Favorite button
+
+Responsive layout
+
+Footer
+
+Site links
+
+Company information
+
+Social media links
+
+Copyright
+
+✅ Each component will be built reusable and consistent to maintain a clean and modular architecture.
